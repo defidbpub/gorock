@@ -1,4 +1,4 @@
-module github.com/godefi/gorock
+module github.com/yottalabscouk/gorock
 
 go 1.15
 

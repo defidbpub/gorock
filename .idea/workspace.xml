@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3ca3511-a887-4bfb-b7e3-ba36b63b6b55" name="Default Changelist" comment="" />
+    <list default="true" id="f3ca3511-a887-4bfb-b7e3-ba36b63b6b55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,10 +89,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="283" key="CommitChangelistDialog2" timestamp="1605567338300">
+    <state x="450" y="283" key="CommitChangelistDialog2" timestamp="1605613330760">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
-    <state x="450" y="283" key="CommitChangelistDialog2/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605567338300" />
+    <state x="450" y="283" key="CommitChangelistDialog2/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605613330760" />
     <state x="1301" y="589" width="615" height="192" key="Github.ShareDialog" timestamp="1605613034240">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
@@ -99,11 +102,11 @@
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
     <state x="-934" y="421" key="Github.UntrackedFilesDialog/-2560.23.2560.1417/0.23.2560.1369@-2560.23.2560.1417" timestamp="1600443627345" />
-    <state x="1391" y="431" key="Vcs.Push.Dialog.v2" timestamp="1605567340742">
+    <state x="1391" y="431" key="Vcs.Push.Dialog.v2" timestamp="1605613333641">
       <screen x="0" y="23" width="2560" height="1365" />
     </state>
     <state x="-1169" y="447" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.2560.1369@-2560.23.2560.1417" timestamp="1602089123139" />
-    <state x="1391" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605567340742" />
+    <state x="1391" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605613333641" />
     <state x="-962" y="558" key="git4idea.ui.GitTagDialog" timestamp="1600461968765">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
