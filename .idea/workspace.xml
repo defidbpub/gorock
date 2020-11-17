@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3ca3511-a887-4bfb-b7e3-ba36b63b6b55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/System/Volumes/Data/Users/janrock/sdk/go1.15.5" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jan Rock &lt;rock@yottalabs.co.uk&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hgrGKOGF5TdaZMALJ0iFFWOUbc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <MESSAGE value="Typo fix." />
+    <MESSAGE value="Fix - entrypoint parameter." />
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="283" key="CommitChangelistDialog2" timestamp="1605567338300">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="450" y="283" key="CommitChangelistDialog2/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605567338300" />
+    <state x="1301" y="589" width="615" height="192" key="Github.ShareDialog" timestamp="1605613034240">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="-895" y="611" key="Github.ShareDialog/-2560.23.2560.1417/0.23.2560.1369@-2560.23.2560.1417" timestamp="1600443608910" />
+    <state x="1301" y="589" width="615" height="192" key="Github.ShareDialog/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605613034240" />
+    <state x="-934" y="421" key="Github.UntrackedFilesDialog" timestamp="1600443627345">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-934" y="421" key="Github.UntrackedFilesDialog/-2560.23.2560.1417/0.23.2560.1369@-2560.23.2560.1417" timestamp="1600443627345" />
+    <state x="1391" y="431" key="Vcs.Push.Dialog.v2" timestamp="1605567340742">
+      <screen x="0" y="23" width="2560" height="1365" />
+    </state>
+    <state x="-1169" y="447" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.2560.1369@-2560.23.2560.1417" timestamp="1602089123139" />
+    <state x="1391" y="431" key="Vcs.Push.Dialog.v2/0.23.2560.1365/-2560.23.2560.1417@0.23.2560.1365" timestamp="1605567340742" />
+    <state x="-962" y="558" key="git4idea.ui.GitTagDialog" timestamp="1600461968765">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-962" y="558" key="git4idea.ui.GitTagDialog/-2560.23.2560.1417/0.23.2560.1369@-2560.23.2560.1417" timestamp="1600461968765" />
+  </component>
+</project>
