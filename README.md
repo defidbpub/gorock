@@ -10,7 +10,7 @@ Requirements:
 Golang 1.15+ | Docker 19.03.13+ (Desktop 2.5+) | Kubernetes 1.19+
 
 ```bash
-go get "github.com/godefi/gorock"
+go get "github.com/yottalabscouk/gorock"
 ```
 
 Purpose:
@@ -26,7 +26,7 @@ vi deploy.go
 package main
 
 import (
-	"github.com/godefi/gorock"
+	"github.com/yottalabscouk/gorock"
 )
 
 func main() {
