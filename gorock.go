@@ -1,14 +1,14 @@
 package gorock
 
 import (
-	log "github.com/sirupsen/logrus"
 	"io/ioutil"
 	"os/exec"
 	"regexp"
+
+	log "github.com/sirupsen/logrus"
 )
 
 func CreateDockerFile(app string, port string, param string) bool {
-
 	err := ioutil.WriteFile("Dockerfile", []byte(""+
 		"FROM golang:latest\n"+
 		"RUN mkdir -p /app\n"+
@@ -27,7 +27,6 @@ func CreateDockerFile(app string, port string, param string) bool {
 	}
 	log.Info("Dockerfile created.")
 	return true
-
 }
 
 func DockerCheck() bool {

@@ -4,17 +4,10 @@
 Support module for application deployment to Google Kubernetes Engine using Google Container Registry.
 
 Release:
-1.0.0
-
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=defidbpub_gorock&metric=alert_status)](https://sonarcloud.io/dashboard?id=defidbpub_gorock)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=defidbpub_gorock&metric=bugs)](https://sonarcloud.io/dashboard?id=defidbpub_gorock)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=defidbpub_gorock&metric=security_rating)](https://sonarcloud.io/dashboard?id=defidbpub_gorock)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=defidbpub_gorock&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=defidbpub_gorock)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=defidbpub_gorock&metric=code_smells)](https://sonarcloud.io/dashboard?id=defidbpub_gorock)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=defidbpub_gorock&metric=ncloc)](https://sonarcloud.io/dashboard?id=defidbpub_gorock)
+1.0.1
 
 Requirements:
-Golang 1.15+ | Docker 19.03.13+ (Desktop 2.5+) | Kubernetes 1.19+
+Golang 1.16.5+ | Docker 19.03.13+ (Desktop 2.5+) | Kubernetes 1.19+
 
 ```bash
 go get "github.com/defidbpub/gorock"
