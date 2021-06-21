@@ -37,7 +37,7 @@ func main() {
 	var namespace = "<kubernetes-namespace>"
 	var param = "<params>" // in double quotes comma separated
 
-	// PLAYBOOK
+	//playbook
 
 	gorock.CreateDockerFile(app, port, param)
 	if gorock.DockerCheck() {
